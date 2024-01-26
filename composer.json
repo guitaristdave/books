@@ -1,0 +1,15 @@
+{
+    "name": "akunts/hw",
+    "autoload": {
+        "psr-4": {
+            "Akunts\\Hw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David",
+            "email": "david@akunts.ru"
+        }
+    ],
+    "require": {}
+}
